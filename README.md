@@ -1,16 +1,43 @@
-# sky_scrpper_app
+Project Definition: Weather App (Sky Scrapper)
 
-A new Flutter project.
+Project Description:
+"Sky Scrapper" is a feature-rich weather application built using Flutter, incorporating key
+concepts such as API calling, Shared Preferences, and network connectivity. The app offers a
+comprehensive set of functionalities designed to provide users with accurate and timely weather
+information for cities, states, and countries.
+Project Technologies:
+- Dart language
+- Flutter framework with MVC and Provider architecture
 
-## Getting Started
+Project Requirements:
+- Knowledge of programming languages such as Dart and JavaScript.
+- Familiarity with the Flutter framework, API Calling, and JSON parsing.
+- Understanding of user interface design principles and best practices.
+- Experience with mobile app development and related tools like Android Studio or VS Code.
+- Ability to work independently.
 
-This project is a starting point for a Flutter application.
+Project Deliverables:
+- A functional Weather application developed using Flutter.
+- Source code and documentation for the application.
+- User manual and installation instructions.
+- Project report detailing the development process, challenges faced, and solutions implemented.
+- Presentation and demonstration of the application to a panel of reviewers.
 
-A few resources to get you started if this is your first Flutter project:
+“Quality is our Motto.” Page 2 of 4 Shaping “skills” for “scaling” higher...!!!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Project Evaluation:
+- User satisfaction with the application’s functionality and UI/UX
+- Quality of code and project structure
+- Presentation quality and clarity of communication
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/rahulmali2004/sky_scrpper_app/assets/130822416/b7781be8-9a39-4ac4-897a-d6490a377747
+
+
+<img src = "https://github.com/rahulmali2004/sky_scrpper_app/assets/130822416/98345474-cb8f-4c1b-8929-86b1f99ae01e" height= 400 ></img>
+
+<img src = "https://github.com/rahulmali2004/sky_scrpper_app/assets/130822416/f65dab19-a769-43b0-8305-7f8513b75881" height= 400 ></img>
+
+<img src = "https://github.com/rahulmali2004/sky_scrpper_app/assets/130822416/02378aa8-f81f-4d92-89b0-2033d5791622" height= 400 ></img>
+
